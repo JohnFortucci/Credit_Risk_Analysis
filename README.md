@@ -26,3 +26,10 @@ Use the oversampling RandomOverSampler and SMOTE algorithms, and use the undersa
 The image below shows the output of the code execution in the Naive Random Oversampling code blocks.
 
 ![Naive Random Oversampling](/Resources/Native_Random_Oversampling.png)
+
+From the above we can determine :- 
+
+-- Balanced Accuracy Test : 67%
+- Precision for high risk : 1% , which indicates a low positivitey
+- Recall for high risk    : 74%
+- 
