@@ -68,3 +68,23 @@ The image below shows the output of the code execution in the Over and Under sam
 - Balanced Accuracy Test : 64%
 - Precision              : 99% 
 - Recall                 : 56%
+
+## Deliverable 3- Use Ensemble Classifiers to Predict Credit Risk
+
+### Overview
+
+Using the imblearn.ensemble library, train and compare two different ensemble classifiers, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk and evaluate each model. 
+
+Using both algorithms, resample the dataset, view the count of the target classes, train a logistic regression classifier, calculate the balanced accuracy score, generate a confusion matrix, and generate a classification report.
+
+### Results
+
+#### Balanced Random Forrest Classifier
+
+The image below shows the output of the code execution in the Over and Under sampling code blocks.
+
+![Balanced Random Forrest](/Resources/Combined.png)
+
+- Balanced Accuracy Test : 64%
+- Precision              : 99% 
+- Recall                 : 56%
