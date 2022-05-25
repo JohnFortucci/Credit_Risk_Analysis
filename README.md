@@ -55,6 +55,12 @@ The image below shows the output of the code execution in the undersampling code
 
 From the above we can determine :- 
 
-- Balanced Accuracy Test : 64%
-- Precision for high risk : 1% , which indicates a low positivitey
-- Overall recall          : 66%
+- Balanced Accuracy Test : 52%
+- Precision              : 99% 
+- Recall                 : 44%
+
+### Combination (Over and Under sampling)
+
+The image below shows the output of the code execution in the Over and Under sampling code blocks.
+
+![Commbined](/Resources/Commbined.png)
