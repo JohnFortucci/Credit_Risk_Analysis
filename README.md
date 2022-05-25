@@ -46,3 +46,15 @@ From the above we can determine :-
 - Balanced Accuracy Test : 64%
 - Precision for high risk : 1% , which indicates a low positivitey
 - Overall recall          : 66%
+
+### Undersampling
+
+The image below shows the output of the code execution in the undersampling code blocks.
+
+![Undersampling](/Resources/Undersampling.png)
+
+From the above we can determine :- 
+
+- Balanced Accuracy Test : 64%
+- Precision for high risk : 1% , which indicates a low positivitey
+- Overall recall          : 66%
