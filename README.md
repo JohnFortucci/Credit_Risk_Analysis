@@ -25,3 +25,4 @@ Use the oversampling RandomOverSampler and SMOTE algorithms, and use the undersa
 
 The image below shows the output of the code execution in the Naive Random Oversampling code blocks.
 
+![Naive Random Oversampling](/Resources/Native_Random_Oversampling.png)
