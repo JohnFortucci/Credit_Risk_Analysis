@@ -14,7 +14,7 @@ Compare two new machine learning models that reduce bias, BalancedRandomForestCl
 
 Evaluate the performance of these models and make a written recommendation on whether they should be used to predict credit risk.
 
-## Deliverable 1 - Use Resampling Models to Predict Credit Risk
+## Deliverable 1 and 2 - Use Resampling Models to Predict Credit Risk
 
 ### Overview
 
