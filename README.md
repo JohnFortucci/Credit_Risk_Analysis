@@ -40,3 +40,9 @@ From the above we can determine :-
 The image below shows the output of the code execution in the SMOTE Oversampling code blocks.
 
 ![SMOTE Oversampling](/Resources/SMOTE_Oversampling.png)
+
+From the above we can determine :- 
+
+- Balanced Accuracy Test : 64%
+- Precision for high risk : 1% , which indicates a low positivitey
+- Overall recall          : 66%
