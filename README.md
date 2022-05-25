@@ -39,4 +39,4 @@ From the above we can determine :-
 
 The image below shows the output of the code execution in the SMOTE Oversampling code blocks.
 
-![SMOTE Oversampling](/Resources/SMOTE Oversampling.png)
+![SMOTE Oversampling](/Resources/SMOTE_Oversampling.png)
