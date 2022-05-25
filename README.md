@@ -63,4 +63,4 @@ From the above we can determine :-
 
 The image below shows the output of the code execution in the Over and Under sampling code blocks.
 
-![Commbined](/Resources/Commbined.png)
+![Combined](/Resources/Combined.png)
